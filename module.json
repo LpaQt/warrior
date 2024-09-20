@@ -1,7 +1,7 @@
 {
   "author": " <font color='#C53434'>Sako</font>",
   "description": "Use Alt+Shift+W shortcut to open menu",
-  "disableAutoUpdate": true,
+  "disableAutoUpdate": false,
   "disabled": false,
   "donationUrl": "https://funpay.com/users/1875741/",
   "name": "Warrior-UI",
@@ -17,7 +17,7 @@
     "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json",
 	"ui": "https://raw.githubusercontent.com/HakuryuuDom/ui/master/"
   },  
-  "servers": ["https://raw.githubusercontent.com/warrior/master"],
+  "servers": ["https://raw.githubusercontent.com/warrior/master/"],
   "conflicts": [
      "zsync",
      "replacer",
