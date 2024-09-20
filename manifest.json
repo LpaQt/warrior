@@ -1,0 +1,17 @@
+{
+  "files": {
+    "config.json": {
+        "overwrite": false,
+        "hash": "d526286461ef13c22dc5bcee8ade9bec079188c6449e390f281cd1d0cb728336"
+	},
+    "index.js": "78f57197a462f831db6f9bbf446997fb5e457281bc247629d7117a62b27bc9e8",
+    "module.config.json": "fccfa1f9e19b11a6d58abbc07369f696ed9ea3873e263f6a2adf8e04d672d4d4",
+    "module.json": "8bfd46c37aa5a0b852b0a0ea1b765c0e5b61ee128b7f2fb1f3524ab8486e4c0f",
+    "README.md": "2614c043d215a7aaa4eafc391cc821a2851fb699a8246143c27960231fcee553",
+    "skills.js": "3910a298ec0b913455b737eba13fba11f8c53bfbaa1bbc7b27cb60f6d37e2d47",
+    "lib/settings_structure.js": "31b170c424b933d9014d24e4ea93b8580b02f4f71edc17e9fe11633c5a07a5b1",
+    "lib/settings_structure_ru.js": "afbed33f014b5699af5bccc628900bdf5d9ac5dffadd7db7798795a4924deb09",
+    "ui/index.html": "52817d4ea27221fc4052e93fb1ec770031d38bf1db9f0480682cdc475ce1c3ba",
+    "ui/main.js": "37ae27cba0122273960ae4a6155f2a7f71dc5e3c187f8487ce64c9f080b55bce"
+  }
+}

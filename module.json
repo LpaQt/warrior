@@ -1,0 +1,29 @@
+{
+  "author": " <font color='#C53434'>Sako</font>",
+  "description": "Use Alt+Shift+W shortcut to open menu",
+  "disableAutoUpdate": true,
+  "disabled": false,
+  "donationUrl": "https://funpay.com/users/1875741/",
+  "name": "Warrior-UI",
+  "options": {
+    "niceName": "<font color='#FF2800'>Warrior-UI</font>",
+    "guiName": "<font color='#FF2800'>Warrior-UI</font>",
+    "reloadable": true,
+    "settingsFile": "config.json",
+    "settingsMigrator": "settings_migrator.js",
+    "settingsVersion": 1
+  },
+  "dependencies": {
+    "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json",
+	"ui": "https://raw.githubusercontent.com/HakuryuuDom/ui/master/"
+  },  
+  "servers": ["https://raw.githubusercontent.com/ts/warrior/master"],
+  "conflicts": [
+     "zsync",
+     "replacer",
+     "skill-prediction"
+	],
+  "supportUrl": "https://discord.gg/gJeVtTG4QT",
+  "version": " 2.00 ",
+  "drmKey": "MTY0NDM1NTAwMzQyNDI3NA=="
+}
