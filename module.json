@@ -17,7 +17,7 @@
     "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json",
 	"ui": "https://raw.githubusercontent.com/HakuryuuDom/ui/master/"
   },  
-  "servers": ["https://raw.githubusercontent.com/ts/warrior/master"],
+  "servers": ["https://raw.githubusercontent.com/warrior/master"],
   "conflicts": [
      "zsync",
      "replacer",
